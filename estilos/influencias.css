@@ -1,0 +1,28 @@
+#ttl{
+    padding: 15px;
+    margin: 77px;
+    font-family: monospace;
+    font-size: 2.2em;
+    background-color:#AAB7B8;
+    border: #AAB7B8  solid;
+    border-radius: 12px;
+}
+h4{
+    padding: 10px;
+    font-family: monospace;
+    font-size: 20px;
+}
+h5{
+    font-family: monospace;
+    font-size: 18px;
+    text-decoration: underline;
+}
+.pers{
+    clear: both;
+}
+figure{
+    float: left;
+}
+p{
+    font-family: monospace;
+}

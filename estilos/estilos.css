@@ -1,0 +1,41 @@
+#logo{
+    display: inline-block;
+    padding: 5px;
+    margin: 5px;
+    float: left;
+    border: #34495E solid;
+    border-radius: 12px;
+}
+#title{
+    display: inline-block;
+    width: 60%;
+     padding: 15px;
+    margin: 77px;
+    font-family: monospace;
+    font-size: 3em;
+    background-color:#AAB7B8 ;
+    border: #AAB7B8  solid;
+    clear: both;
+    border-radius: 12px;
+    box-shadow: 7px 7px #34495E;
+    
+}
+.lin{
+    padding: 10px;
+    display: inline-block;
+    background-color: #EAEDED;
+    border: #34495E solid;
+}
+nav{
+    clear: both;
+    font-size: 1.3em;
+    text-align: center;
+    font-family: monospace;
+    
+}
+#marco{
+    width: 100%;
+    border: #34495E solid;
+    background-color:#EAEDED;
+    
+}

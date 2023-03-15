@@ -1,0 +1,24 @@
+#img{
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+#tite{
+    display: inline-block;
+    padding: 10px;
+    font-family: monospace;
+    font-size: 2em;
+    width: 50%;background-color:#AAB7B8 ;
+    border: #AAB7B8  solid;
+    clear: both;
+    border-radius: 12px;
+    box-shadow: 7px 7px #34495E;
+}
+p{
+    clear: both;
+    font-family: monospace;
+    font-size: 1.2em;
+}
+h3{
+    clear: both;
+}
